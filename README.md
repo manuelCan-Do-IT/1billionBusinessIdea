@@ -1,4 +1,4 @@
-# Idées utiles — Emmanuel
+# Idées utiles
 
 Formulaire FR/EN, dictée vocale, stockage Cloudflare D1 et tableau de bord privé (`/resultats`).
 
